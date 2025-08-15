@@ -32,15 +32,15 @@ Scikit-learn,
 Seaborn,
 Matplotlib.
 ## How to run:
-**Install the required packages**
-**Download the dataset from Kaggle (or use the provided data.csv)**
-**Run the Jupyter notebook breast_cancer_prediction.ipynb**
+**Install the required packages**,
+**Download the dataset from Kaggle (or use the provided data.csv)**,
+**Run the Jupyter notebook breast_cancer_prediction.ipynb**.
 
 ## Possible Further Improvements:
-**Experiment with other classification algorithms**
-**Perform feature selection to improve model performance**
-**Develop a web application for real-time predictions**
+Experiment with other classification algorithms,
+Perform feature selection to improve model performance,
+Develop a web application for real-time predictions,
 
 ## Acknowledgment
-**Dataset from UCI Machine Learning Repository (available on Kaggle)**
-**Scikit-learn documentation for model implementation guidance**
+**Dataset from UCI Machine Learning Repository (available on Kaggle)**,
+**Scikit-learn documentation for model implementation guidance**.

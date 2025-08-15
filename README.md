@@ -21,9 +21,9 @@ Target variables: Diagnosis(Malignant=1, Benign=0).
 ## Results:
 The Logistic Regression model achieved:
 **Accuracy**: 98.6%,
-**Precision**: 98% for benign, 100% for malignant,
-**Recall**: 100% for benign, 96% for malignant,
-**F1-score**: 99% for benign, 98% for malignant.
+**Precision**:( 98% for benign, 100% for malignant),
+**Recall**: (100% for benign, 96% for malignant),
+**F1-score**: (99% for benign, 98% for malignant).
 ## Requirements:
 Python 3.x,
 Pandas,
